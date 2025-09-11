@@ -1,6 +1,6 @@
 ## Ahmed Abdelrahman 42 Roma Luiss 💻
 
-![Gif di presentazione Ahmed Abdelrahamn](show.gif)
+![Gif di presentazione Ahmed Abdelrahamn](nova.gif)
 
 <p align="center">	
   <a href="https://skillicons.dev">
