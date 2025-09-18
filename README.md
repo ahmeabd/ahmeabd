@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <strong>LANGUAGES:</strong> Java | C | C++ | Python | JavaScript | TypeScript  | Dart | SQL
+  <strong>LANGUAGES:</strong> Java | C | C++ | Python | JavaScript | TypeScript | SQL
 </p>
 
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,git,github,docker,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=spring,git,github,docker,react" />
   </a>
 </p>
 
 <p align="center">
-  <strong>TOOLS & FRAMEWORKS:</strong> Spring | Git | GitHub | Docker | React | Flutter | Flame | Riverpod 
+  <strong>TOOLS & FRAMEWORKS:</strong> Spring | Git | GitHub | Docker | React | 
 </p>
 
 <hr/>
