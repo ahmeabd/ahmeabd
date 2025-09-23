@@ -1,4 +1,4 @@
-## Ahmed Abdelrahman 42 Roma Luiss 💻
+## Ahmed Abdelrahman 42 Roma Luiss
 
 ![Gif di presentazione Ahmed Abdelrahamn](nova.gif)
 
