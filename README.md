@@ -4,12 +4,12 @@
 
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,mysql" />
   </a>
 </p>
 
 <p align="center">
-  <strong>LANGUAGES:</strong> Java | C | C++ | Python | JavaScript | TypeScript | SQL
+  <strong>LANGUAGES:</strong> Java | C | C++ | Python | JavaScript | SQL
 </p>
 
 <p align="center">	
