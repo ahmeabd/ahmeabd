@@ -21,7 +21,7 @@
 
 </p>
 
-**Choose your priority.**  
+**Choose your priorities.**  
 
 Currently in love with AI, never a fanatic though.
 
