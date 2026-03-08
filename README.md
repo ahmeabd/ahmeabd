@@ -1,25 +1,31 @@
-## Ahmed Abdelrahman 42 Roma Luiss
+# 👋 Hi! I'm Ahmed Abdelrahman from Rome 🏛️
 
-![Gif di presentazione Ahmed Abdelrahamn](nova.gif)
+![nova](./nova.gif)
 
-<p align="center">	
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,mysql" />
-  </a>
+**_Agentic AI | RAG | Intelligent Systems_**
+
+<p align="left">
+
+  <!-- LangChain -->
+  <img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- LangGraph -->
+  <img src="https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+  <!-- RAG -->
+  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+  <!-- LLM -->
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Agentic AI -->
+  <img src="https://img.shields.io/badge/Agentic%20AI-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <strong>LANGUAGES:</strong> Java | C | C++ | Python | JavaScript | SQL
-</p>
+**Choose your priority.**  
 
-<p align="center">	
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,git,github,docker,react" />
-  </a>
-</p>
+Currently in love with AI, never a fanatic though.
 
-<p align="center">
-  <strong>TOOLS & FRAMEWORKS:</strong> Spring | Git | GitHub | Docker | React | 
-</p>
 
-<hr/>
+- [LinkedIn](https://www.linkedin.com/in/ahmed-abdelrahman-eng)
