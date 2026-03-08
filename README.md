@@ -1,5 +1,3 @@
-# 👋 Hi! I'm Ahmed Abdelrahman from Rome 🏛️
-
 ![nova](./nova.gif)
 
 **_Agentic AI | RAG | Intelligent Systems_**
@@ -29,3 +27,5 @@ Currently in love with AI, never a fanatic though.
 
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-abdelrahman-eng)
+
+From Rome 🏛️ Italy 🇮🇹
